@@ -32,6 +32,6 @@ Simple 'store' that has a react front end and node back end configured using "cr
 
     In another new terminal window, enter: ```stripe trigger payment_intent.succeeded```
 
-    check in /src/log.txt to see an entry for each time the trigger above command is sent.
+    check in log.txt to see an entry for each time the trigger above command is sent.
 
 any questions? email jeewan@outlook.com
