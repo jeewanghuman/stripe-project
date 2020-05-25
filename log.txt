@@ -1,0 +1,5 @@
+paymentIntent was successful for email: null
+paymentIntent was successful for email: null
+paymentIntent was successful for email: null
+paymentIntent was successful for email: null
+paymentIntent was successful for email: null
